@@ -31,3 +31,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# python my_script.py John subjects.csv - запуск из командной строки
+# Здесь my_script.py - имя файла со скриптом, John - имя студента, subjects.csv - имя CSV-файла с предметами."""
